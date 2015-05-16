@@ -8,7 +8,6 @@ import java.util.Scanner;
  *
  */
 public class Rectangle {
-	//bla
 	/**
 	 * 
 	 * @param args
